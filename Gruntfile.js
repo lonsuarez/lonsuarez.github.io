@@ -1,5 +1,5 @@
 'use-strict';
-var proxyDev = 'http://localhost/github/templates/portfolio/';
+var proxyDev = 'http://localhost/github/project/portfolio/';
 
 module.exports = function (grunt) {
     require('load-grunt-tasks')(grunt);

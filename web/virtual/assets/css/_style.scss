@@ -1,0 +1,79 @@
+/*!
+Theme Name: InstantVA Theme
+Theme URI: http://designingmedia.com/instantva
+Author: Designing Media
+Author URI: http://designingmedia.com
+Description: Unlock seamless productivity with InstantVA Theme â€“ Your go-to solution for empowering your business with top-tier independent professionals working remotely. Elevate efficiency, streamline tasks, and thrive in the digital landscape. Harness the expertise of virtual assistants at your fingertips. Maximize success, minimize effort â€“ InstantVA, where virtual assistance meets instant results.
+Version: 1.0
+Requires PHP: 7.0
+Tested up to: 5.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: instantva
+Tags: Theme Customization, responsive design, multi-purpose, customer support, modern design, seo friendly, RemoteWorkSolutions, VirtualAssistants, BusinessProductivity, InstantResults, DigitalWorkforce, EfficientCollaboration, RemoteSupport, IndependentProfessionals, VirtualWorkspace, TaskAutomation, RemoteBusinessSupport, TimeManagement, GlobalWorkforce, ProfessionalServices, SmartBusinessSolutions
+*/
+
+.no-breadcrumbs.page-title-area:after {
+  display: none;
+}
+
+.navbar-area .nav-container .navbar-collapse #menu-all-pages>li+li {
+  margin-left: 10px;
+}
+
+.navbar-area .nav-container .navbar-collapse #menu-all-pages li {
+  padding: 0 7px;
+}
+
+/*Unit test css*/
+.navbar-area .nav-container .logo a.retina-logo {
+  display: none;
+}
+
+.wpcf7 form.sent .wpcf7-response-output,
+.wpcf7-not-valid-tip {
+  color: #7e7e7e;
+  font-size: 1em;
+  font-weight: normal;
+  display: block;
+  margin-top: 10px;
+  width: 445px;
+  display: block;
+  padding: 4px 5px 1px 10px;
+}
+
+.banner-inner .wpcf7 form.sent .wpcf7-response-output,
+.banner-inner .wpcf7-not-valid-tip {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.wpcf7-spinner {
+  display: none;
+}
+
+.banner-inner .wpcf7 form.invalid .wpcf7-response-output,
+.banner-inner .wpcf7 form.unaccepted .wpcf7-response-output,
+.banner-inner .wpcf7 form.payment-required .wpcf7-response-output {
+  border-color: #fff;
+  color: #fff;
+  margin-top: 0;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output {
+  display: none;
+}
+
+.wpcf7-not-valid-tip {
+  display: contents;
+  font-size: 12px;
+  color: red;
+  line-height: 0px;
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+  border-color: red !important;
+  font-size: 12px;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,571 @@
+@media screen and (min-width:1921px) {}
+
+@media screen and (max-width:1600px) {}
+
+@media screen and (max-width: 1366px) {}
+
+@media screen and (max-width: 1199px) {
+  .send_message_form_box_content input {
+    font-size: 14px !important;
+    line-height: 24px !important;
+    padding: 12px 20px !important;
+    width: 100%;
+  }
+
+  .send_message_form_box_content textarea {
+    font-size: 14px !important;
+    line-height: 24px !important;
+    padding: 12px 20px !important;
+    width: 100%;
+  }
+
+  .send_message_form_box_content textarea {
+    height: 115px !important;
+    margin-bottom: 25px !important;
+  }
+
+  .send_message_form_box_content button {
+    font-size: 18px !important;
+    line-height: 18px !important;
+    padding: 18px 55px !important;
+  }
+
+  .sign_up_form_content .upper_layer {
+    line-height: 24px;
+    padding: 28px 20px;
+  }
+
+  .sign_up_form_content .sign_up_arrow {
+    right: 5px;
+    height: 56px;
+    width: 56px;
+  }
+
+  .sign_up_form_content .sign_up_arrow i {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .testimonials_content p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .testimonials_content .testimonials_name {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev {
+    width: 55px;
+    height: 55px;
+    line-height: 62px;
+    margin: 0 5px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev span {
+    font-size: 26px;
+    line-height: 0;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next {
+    width: 55px;
+    height: 55px;
+    line-height: 62px;
+    margin: 0 5px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next span {
+    font-size: 26px;
+    line-height: 0;
+  }
+
+  .case_studies_section .case_studies_box {
+    padding: 25px 18px;
+  }
+
+  .services_box_wrapper {
+    padding: 30px 35px 22px;
+    margin-bottom: 30px;
+  }
+
+  .services_box_wrapper figure {
+    margin: 0 0 22px;
+  }
+
+  .services_box_wrapper h4 {
+    margin-bottom: 15px;
+  }
+
+  h5 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .services_box_wrapper i {
+    line-height: 42px;
+    height: 42px;
+    width: 42px;
+  }
+
+  .team_member_image {
+    margin-bottom: 110px;
+  }
+
+  .team_member_section .team_member_box {
+    left: 15px;
+    bottom: -75px;
+  }
+
+  .team_member_box h5 {
+    line-height: 22px;
+    padding: 0 5px;
+  }
+
+  .team_member_box i {
+    line-height: 34px;
+    height: 34px;
+    width: 34px;
+    margin-right: 2px;
+  }
+
+}
+
+@media screen and (max-width:991px) {
+  .nav-transparent .nav-container .navbar-collapse .navbar-nav>li:last-child a {
+    padding: 0px;
+    background-color: transparent;
+    color: #000;
+    border-radius: 6px;
+    margin-left: 0px;
+  }
+
+  .nav-transparent .nav-container .navbar-collapse .navbar-nav>li:last-child a:hover {
+    background-color: transparent;
+  }
+
+  .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children {
+    margin-right: 0px;
+  }
+
+  .navbar-area .nav-container .navbar-collapse .navbar-nav .menu-item-has-children a:first-child::before {
+    color: #000 !important;
+  }
+
+  .navbar-area .nav-container .navbar-collapse .navbar-nav li+li {
+    margin: 0px 0px !important;
+  }
+
+  .navbar-area .nav-container .navbar-nav li.menu-item-has-children>.sub-menu {
+    border-radius: 6px !important;
+    background: transparent !important;
+    color: #000 !important;
+  }
+
+  .send_message_form_box_content input {
+    line-height: 22px !important;
+    padding: 10px 18px !important;
+  }
+
+  .send_message_form_box_content input {
+    margin-bottom: 12px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    height: 110px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    line-height: 22px !important;
+    padding: 10px 18px !important;
+  }
+
+  .send_message_form_box_content button {
+    font-size: 16px !important;
+    line-height: 16px !important;
+    padding: 16px 45px !important;
+  }
+
+  .sign_up_form_content .upper_layer {
+    line-height: 14px;
+    padding: 26px 15px;
+    font-size: 14px;
+  }
+
+  .sign_up_form_content .sign_up_arrow {
+    right: 6px;
+    height: 52px;
+    width: 52px;
+  }
+
+  .sign_up_form_content .sign_up_arrow i {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  .testimonials_content p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .testimonials_content .testimonials_name {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 5px;
+  }
+
+  .testimonials_content .testimonials_desc {
+    font-size: 14px;
+    line-height: 14px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav {
+    margin-top: 25px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev {
+    width: 50px;
+    height: 50px;
+    line-height: 58px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev span {
+    font-size: 24px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next {
+    width: 50px;
+    height: 50px;
+    line-height: 58px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next span {
+    font-size: 24px;
+  }
+
+  .case_studies_section .case_studies_box {
+    padding: 22px 5px;
+    width: 85%;
+  }
+
+  .case_studies_box h4 {
+    padding: 0 30px;
+    margin-bottom: 8px;
+  }
+
+  h4 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .case_studies_box p {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 12px;
+  }
+
+  .case_studies_box i {
+    font-size: 16px;
+    line-height: 38px;
+    height: 40px;
+    width: 40px;
+  }
+
+  .services_box_wrapper {
+    padding: 25px 25px 20px;
+  }
+
+  .services_box_wrapper figure {
+    margin: 0 0 18px;
+  }
+
+  .services_box_wrapper figure img {
+    width: 45px;
+  }
+
+  .services_box_wrapper h4 {
+    margin-bottom: 12px;
+  }
+
+  .services_box_wrapper i {
+    font-size: 18px;
+    line-height: 38px;
+    height: 40px;
+    width: 40px;
+  }
+
+  .services_box_wrapper figure {
+    margin-bottom: 15px !important;
+  }
+
+  .team_member_section .team_member_box {
+    left: 0;
+    right: 0;
+    bottom: -80px;
+    padding: 28px 20px;
+    margin: 0 auto;
+  }
+
+  .team_member_box h5 {
+    line-height: 20px;
+    padding: 0;
+    margin-bottom: 5px;
+  }
+
+  .team_member_box i {
+    line-height: 34px;
+    height: 34px;
+    width: 34px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+}
+
+@media screen and (max-width:860px) {
+  #moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width:767px) {
+
+  .navbar-area-2 .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+    padding: 0px !important;
+  }
+
+  .navbar-area-2 .navbar-area .navbar {
+    padding: 0px 0px;
+  }
+
+  .send_message_form_box_content input {
+    line-height: 20px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    line-height: 22px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    height: 105px !important;
+    margin-bottom: 15px !important;
+  }
+
+  .send_message_form_box_content button {
+    padding: 16px 35px !important;
+  }
+
+  .sign_up_form_content .sign_up_arrow {
+    height: 48px;
+    width: 48px;
+    padding: 0px !important;
+  }
+
+  .sign_up_form_content .sign_up_arrow i {
+    font-size: 16px;
+    line-height: 16px;
+  }
+
+  .testimonials_content p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav {
+    margin-top: 20px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev {
+    width: 45px;
+    height: 45px;
+    line-height: 50px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-prev span {
+    font-size: 22px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next {
+    width: 45px;
+    height: 45px;
+    line-height: 50px;
+  }
+
+  .testimonials-section .owl-carousel .owl-nav .owl-next span {
+    font-size: 22px;
+  }
+
+  .testimonials_content figure img {
+    width: 53px !important;
+    height: 53px !important;
+    border-radius: 100% !important;
+    text-align: center;
+  }
+
+  .testimonials_content figure {
+    text-align: -webkit-center;
+    margin-bottom: 15px !important;
+  }
+
+  .case_studies_section .case_studies_box {
+    padding: 20px 10px;
+  }
+
+  .case_studies_box h4 {
+    padding: 0px 50px;
+  }
+
+  .case_studies_box p {
+    margin-bottom: 10px;
+  }
+
+  .case_studies_box i {
+    line-height: 36px;
+    height: 38px;
+    width: 38px;
+  }
+
+  .services_box_wrapper {
+    padding: 22px 55px 20px;
+  }
+
+  .services_box_wrapper figure {
+    margin: 0 0 15px;
+  }
+
+  .services_box_wrapper i {
+    font-size: 16px;
+    line-height: 36px;
+    height: 38px;
+    width: 38px;
+  }
+
+  .team_member_image {
+    margin-bottom: 100px;
+  }
+
+  .team_member_section .team_member_box {
+    bottom: -55px;
+    padding: 20px 20px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .send_message_form_box_content input {
+    line-height: 18px !important;
+    font-size: 12px !important;
+    padding: 8px 16px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    line-height: 18px !important;
+    font-size: 12px !important;
+    padding: 8px 16px !important;
+  }
+
+  .send_message_form_box_content textarea {
+    height: 95px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .send_message_form_box_content button {
+    padding: 14px 30px !important;
+    font-size: 14px !important;
+    line-height: 14px !important;
+  }
+
+  .sign_up_form_content .upper_layer {
+    padding: 22px 15px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .sign_up_form_content .sign_up_arrow {
+    height: 44px;
+    width: 44px;
+  }
+
+  .sign_up_form_content .sign_up_arrow i {
+    font-size: 14px;
+    line-height: 14px;
+  }
+
+  .testimonials_content p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .testimonials_content .testimonials_name {
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 2px;
+  }
+
+  .testimonials_content .testimonials_desc {
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .case_studies_section .case_studies_box {
+    padding: 18px 50px;
+  }
+
+  .case_studies_box h4 {
+    margin-bottom: 10px;
+  }
+
+  .case_studies_box p {
+    margin-bottom: 12px;
+  }
+
+  .case_studies_box i {
+    line-height: 34px;
+    height: 36px;
+    width: 36px;
+    font-size: 14px;
+  }
+
+  .services_box_wrapper {
+    padding: 20px 100px 20px;
+  }
+
+  .services_box_wrapper figure {
+    margin: 0px 0 12px;
+  }
+
+  h5 {
+    line-height: 18px;
+  }
+
+  .services_box_wrapper i {
+    font-size: 14px;
+    line-height: 34px;
+    height: 36px;
+    width: 36px;
+  }
+
+  .page-title-area {
+    background-position: center right !important;
+  }
+
+  .team_member_image {
+    margin-bottom: 85px;
+  }
+
+  .team_member_section .team_member_box {
+    width: 90%;
+    padding: 25px 25px;
+  }
+
+  .team_member_box i {
+    font-size: 14px;
+  }
+}

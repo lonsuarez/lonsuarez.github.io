@@ -1,0 +1,322 @@
+.elementor-kit-4 {
+  --e-global-color-primary: #0B0D29;
+  --e-global-color-secondary: #5BC5D1;
+  --e-global-color-text: #5F5F5F;
+  --e-global-color-accent: #F89623;
+  --e-global-color-4f00c34: #FFFFFF;
+  --e-global-color-9f0926a: #7D7D7D;
+  --e-global-color-26017a8: #0E2629;
+  --e-global-color-e9c20d2: #1D818D;
+  --e-global-color-304ecb2: #D5FAFE;
+  --e-global-color-2c1de60: #FFF8EF;
+  --e-global-typography-primary-font-family: "Jost";
+  --e-global-typography-primary-font-weight: 700;
+  --e-global-typography-primary-line-height: 1.1em;
+  --e-global-typography-secondary-font-family: "Jost";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-secondary-line-height: 1.1em;
+  --e-global-typography-text-font-family: "Karla";
+  --e-global-typography-text-font-size: 20px;
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-text-line-height: 1.5em;
+  --e-global-typography-accent-font-family: "Karla";
+  --e-global-typography-accent-font-size: 18px;
+  --e-global-typography-accent-font-weight: 500;
+  --e-global-typography-accent-line-height: 1.5em;
+  --e-global-typography-c0f7475-font-family: "Karla";
+  --e-global-typography-c0f7475-font-size: 22px;
+  --e-global-typography-c0f7475-font-weight: 400;
+  --e-global-typography-c0f7475-line-height: 1.5em;
+  --e-global-typography-b83323c-font-family: "Karla";
+  --e-global-typography-b83323c-font-size: 20px;
+  --e-global-typography-b83323c-font-weight: 500;
+  --e-global-typography-b83323c-line-height: 1.1em;
+  --e-global-typography-36345dc-font-family: "Jost";
+  --e-global-typography-36345dc-font-size: 44px;
+  --e-global-typography-36345dc-font-weight: 700;
+  --e-global-typography-36345dc-line-height: 1.1em;
+  --e-global-typography-6686c37-font-family: "Jost";
+  --e-global-typography-6686c37-font-size: 18px;
+  --e-global-typography-6686c37-font-weight: 500;
+  --e-global-typography-6686c37-line-height: 1.1em;
+  --e-global-typography-c1492fd-font-family: "Jost";
+  --e-global-typography-c1492fd-font-size: 22px;
+  --e-global-typography-c1492fd-font-weight: 500;
+  --e-global-typography-c1492fd-line-height: 1.5em;
+  --e-global-typography-618e549-font-family: "Karla";
+  --e-global-typography-618e549-font-size: 18px;
+  --e-global-typography-618e549-font-weight: 400;
+  --e-global-typography-618e549-line-height: 1.5em;
+  --e-global-typography-4ca2bc4-font-family: "Karla";
+  --e-global-typography-4ca2bc4-font-size: 16px;
+  --e-global-typography-4ca2bc4-font-weight: 400;
+  --e-global-typography-4ca2bc4-line-height: 1.5em;
+  --e-global-typography-f97d67e-font-family: "Jost";
+  --e-global-typography-f97d67e-font-size: 30px;
+  --e-global-typography-f97d67e-font-weight: 600;
+  --e-global-typography-f97d67e-line-height: 1.1em;
+  --e-global-typography-729fec6-font-family: "Jost";
+  --e-global-typography-729fec6-font-size: 54px;
+  --e-global-typography-729fec6-font-weight: 700;
+  --e-global-typography-729fec6-line-height: 1.1em;
+  --e-global-typography-f7676c2-font-family: "Jost";
+  --e-global-typography-f7676c2-font-size: 22px;
+  --e-global-typography-f7676c2-font-weight: 600;
+  --e-global-typography-f7676c2-line-height: 1.1em;
+  color: var(--e-global-color-text);
+  font-family: "Karla", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+.elementor-kit-4 a {
+  font-family: "Karla", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+.elementor-kit-4 h1 {
+  font-family: var(--e-global-typography-729fec6-font-family), Sans-serif;
+  font-size: var(--e-global-typography-729fec6-font-size);
+  font-weight: var(--e-global-typography-729fec6-font-weight);
+  line-height: var(--e-global-typography-729fec6-line-height);
+}
+
+.elementor-kit-4 h2 {
+  font-family: var(--e-global-typography-36345dc-font-family), Sans-serif;
+  font-size: var(--e-global-typography-36345dc-font-size);
+  font-weight: var(--e-global-typography-36345dc-font-weight);
+  line-height: var(--e-global-typography-36345dc-line-height);
+}
+
+.elementor-kit-4 h3 {
+  font-family: var(--e-global-typography-c1492fd-font-family), Sans-serif;
+  font-size: var(--e-global-typography-c1492fd-font-size);
+  font-weight: var(--e-global-typography-c1492fd-font-weight);
+  line-height: var(--e-global-typography-c1492fd-line-height);
+}
+
+.elementor-kit-4 h4 {
+  font-family: var(--e-global-typography-f7676c2-font-family), Sans-serif;
+  font-size: var(--e-global-typography-f7676c2-font-size);
+  font-weight: var(--e-global-typography-f7676c2-font-weight);
+  line-height: var(--e-global-typography-f7676c2-line-height);
+}
+
+.elementor-kit-4 h5 {
+  font-family: var(--e-global-typography-6686c37-font-family), Sans-serif;
+  font-size: var(--e-global-typography-6686c37-font-size);
+  font-weight: var(--e-global-typography-6686c37-font-weight);
+  line-height: var(--e-global-typography-6686c37-line-height);
+}
+
+.elementor-kit-4 h6 {
+  font-family: "Jost", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 1.1em;
+  letter-spacing: 3px;
+}
+
+.elementor-kit-4 button,
+.elementor-kit-4 input[type="button"],
+.elementor-kit-4 input[type="submit"],
+.elementor-kit-4 .elementor-button {
+  font-family: "Karla", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+  line-height: 1.5em;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+  max-width: 1140px;
+}
+
+.e-con {
+  --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+  margin-block-end: 20px;
+}
+
+.elementor-element {
+  --widgets-spacing: 20px 20px;
+  --widgets-spacing-row: 20px;
+  --widgets-spacing-column: 20px;
+}
+
+
+
+h1.entry-title {
+  display: var(--page-title-display);
+}
+
+@media(max-width:1366px) {
+  .elementor-kit-4 {
+    --e-global-typography-36345dc-font-size: 40px;
+    --e-global-typography-36345dc-line-height: 1.1em;
+    --e-global-typography-729fec6-font-size: 50px;
+    --e-global-typography-729fec6-line-height: 1.1em;
+  }
+
+  .elementor-kit-4 h1 {
+    font-size: var(--e-global-typography-729fec6-font-size);
+    line-height: var(--e-global-typography-729fec6-line-height);
+  }
+
+  .elementor-kit-4 h2 {
+    font-size: var(--e-global-typography-36345dc-font-size);
+    line-height: var(--e-global-typography-36345dc-line-height);
+  }
+
+  .elementor-kit-4 h3 {
+    font-size: var(--e-global-typography-c1492fd-font-size);
+    line-height: var(--e-global-typography-c1492fd-line-height);
+  }
+
+  .elementor-kit-4 h4 {
+    font-size: var(--e-global-typography-f7676c2-font-size);
+    line-height: var(--e-global-typography-f7676c2-line-height);
+  }
+
+  .elementor-kit-4 h5 {
+    font-size: var(--e-global-typography-6686c37-font-size);
+    line-height: var(--e-global-typography-6686c37-line-height);
+  }
+}
+
+@media(max-width:1024px) {
+  .elementor-kit-4 {
+    --e-global-typography-text-font-size: 16px;
+    --e-global-typography-text-line-height: 1.5em;
+    --e-global-typography-accent-font-size: 16px;
+    --e-global-typography-accent-line-height: 1.5em;
+    --e-global-typography-c0f7475-font-size: 20px;
+    --e-global-typography-b83323c-font-size: 16px;
+    --e-global-typography-36345dc-font-size: 32px;
+    --e-global-typography-6686c37-font-size: 18px;
+    --e-global-typography-c1492fd-font-size: 20px;
+    --e-global-typography-c1492fd-line-height: 1.1em;
+    --e-global-typography-618e549-font-size: 16px;
+    --e-global-typography-4ca2bc4-font-size: 14px;
+    --e-global-typography-f97d67e-font-size: 30px;
+    --e-global-typography-729fec6-font-size: 44px;
+    --e-global-typography-729fec6-line-height: 1.1em;
+    --e-global-typography-f7676c2-font-size: 20px;
+    --e-global-typography-f7676c2-line-height: 1.1em;
+    font-size: 18px;
+  }
+
+  .elementor-kit-4 h1 {
+    font-size: var(--e-global-typography-729fec6-font-size);
+    line-height: var(--e-global-typography-729fec6-line-height);
+  }
+
+  .elementor-kit-4 h2 {
+    font-size: var(--e-global-typography-36345dc-font-size);
+    line-height: var(--e-global-typography-36345dc-line-height);
+  }
+
+  .elementor-kit-4 h3 {
+    font-size: var(--e-global-typography-c1492fd-font-size);
+    line-height: var(--e-global-typography-c1492fd-line-height);
+  }
+
+  .elementor-kit-4 h4 {
+    font-size: var(--e-global-typography-f7676c2-font-size);
+    line-height: var(--e-global-typography-f7676c2-line-height);
+  }
+
+  .elementor-kit-4 h5 {
+    font-size: var(--e-global-typography-6686c37-font-size);
+    line-height: var(--e-global-typography-6686c37-line-height);
+  }
+
+  .elementor-kit-4 h6 {
+    font-size: 14px;
+  }
+
+  .elementor-kit-4 button,
+  .elementor-kit-4 input[type="button"],
+  .elementor-kit-4 input[type="submit"],
+  .elementor-kit-4 .elementor-button {
+    padding: 10px 5px 10px 5px;
+  }
+
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1024px;
+  }
+
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+
+@media(max-width:767px) {
+  .elementor-kit-4 {
+    --e-global-typography-text-font-size: 14px;
+    --e-global-typography-accent-font-size: 14px;
+    --e-global-typography-c0f7475-font-size: 18px;
+    --e-global-typography-b83323c-font-size: 16px;
+    --e-global-typography-36345dc-font-size: 26px;
+    --e-global-typography-6686c37-font-size: 16px;
+    --e-global-typography-c1492fd-font-size: 18px;
+    --e-global-typography-618e549-font-size: 14px;
+    --e-global-typography-4ca2bc4-font-size: 14px;
+    --e-global-typography-f97d67e-font-size: 120px;
+    --e-global-typography-729fec6-font-size: 28px;
+    --e-global-typography-f7676c2-font-size: 18px;
+    font-size: 16px;
+  }
+
+  .elementor-kit-4 h1 {
+    font-size: var(--e-global-typography-729fec6-font-size);
+    line-height: var(--e-global-typography-729fec6-line-height);
+  }
+
+  .elementor-kit-4 h2 {
+    font-size: var(--e-global-typography-36345dc-font-size);
+    line-height: var(--e-global-typography-36345dc-line-height);
+  }
+
+  .elementor-kit-4 h3 {
+    font-size: var(--e-global-typography-c1492fd-font-size);
+    line-height: var(--e-global-typography-c1492fd-line-height);
+  }
+
+  .elementor-kit-4 h4 {
+    font-size: var(--e-global-typography-f7676c2-font-size);
+    line-height: var(--e-global-typography-f7676c2-line-height);
+  }
+
+  .elementor-kit-4 h5 {
+    font-size: var(--e-global-typography-6686c37-font-size);
+    line-height: var(--e-global-typography-6686c37-line-height);
+  }
+
+  .elementor-kit-4 h6 {
+    font-size: 16px;
+  }
+
+  .elementor-kit-4 button,
+  .elementor-kit-4 input[type="button"],
+  .elementor-kit-4 input[type="submit"],
+  .elementor-kit-4 .elementor-button {
+    font-size: 12px;
+    padding: 8px 22px 8px 22px;
+  }
+
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 767px;
+  }
+
+  .e-con {
+    --container-max-width: 767px;
+  }
+}
